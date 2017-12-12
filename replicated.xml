@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Replicated</short>
+  <description>Replicated is a container orchestration tool for managing an installable version of a SaaS application.</description>
+  <port protocol="tcp" port="8800"/>
+</service>
