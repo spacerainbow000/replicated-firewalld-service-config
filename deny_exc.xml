@@ -4,7 +4,6 @@
   <description>drop-policy for anything other than approved connections; open ports for necessary application-specific services</description>
   <service name="replicated"/>
   <service name="dhcpv6-client"/>
-  <service name="http"/>
   <service name="ssh"/>
   <service name="https"/>
 </zone>
