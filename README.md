@@ -1,4 +1,6 @@
 # replicated-firewalld-service-config
 firewalld xml config for Replicated
 
-place in /etc/firewalld/services
+put replicated.xml in /etc/firewalld/services
+
+put deny_exc.xml in /etc/firewalld/zones
